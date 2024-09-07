@@ -1,5 +1,4 @@
 # DSA-Questions
-This repository contains all the DSA Questions I have solved yet.
 The Format for title is: A[x]Q[y] where x is the assignment number and y is the question number.
 The Assignments are written below:
 
